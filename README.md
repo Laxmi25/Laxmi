@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>
     <meta charset="UTF-8/">
@@ -15,6 +14,8 @@
         margin:"50%";
         padding:"50%";
        border-radius :50px;
+       background-color: chocolate;
+       border:10px;
        background-position-x: center;
        background-position-y:center ; 
     }
@@ -26,7 +27,7 @@
     <h2>1906056</h2>
 </div>
 <div class="abc">
-    <table border="10px" style="background-color: darkorange"; >
+    <table  >
         <th><h4>QUALIFICATION</h4></th>
         <th><h4>SCHOOL/INSTITUTE</h4></th>
         <th><h4>BOARD</h4></th>
