@@ -7,8 +7,8 @@ img{
     width:450px;
     height:350px;
     margin:5px;
-    box-shadow:6px 6px 6px#888888;
-    transition-property:all 1ms;
+    box-shadow:6px 6px 6px #888888;
+    transition-property:all 1s;
 }
 
 #one:hover{
